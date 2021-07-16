@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acdiller
 - 👀 I’m interested in text-based games, roguelikes, and RPGs.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python.
 
 <!---
 acdiller/acdiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
