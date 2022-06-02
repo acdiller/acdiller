@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abbey!
-- 👀 I’m interested in text-based games/interactive fiction, roguelikes, generative art...
+- 👀 I’m interested in text-based games & interactive fiction, roguelikes, and generative art... to name a few.
 - 🌱 I’m currently learning Python & JavaScript!
 
 <!---
