@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Abbey!
-- 👀 I’m interested in text-based games & interactive fiction, roguelikes, and generative art... to name a few.
-- 🌱 I’m currently learning Python & JavaScript!
+- 👋 Hi, I’m Abbey
 
 <!---
 acdiller/acdiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
